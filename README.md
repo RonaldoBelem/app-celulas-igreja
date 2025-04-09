@@ -16,7 +16,7 @@ Este projeto é um aplicativo Android criado com **Android Studio** e **Gradle**
 ## 🛠️ Tecnologias
 
 - Android Studio
-- Java ou Kotlin (à sua escolha)
+- Kotlin 
 - Gradle
 - WebView
 
